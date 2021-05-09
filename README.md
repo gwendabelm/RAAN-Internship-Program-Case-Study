@@ -17,7 +17,7 @@ By passing the cursor on a node in the 3D virtualization, we can see the label o
 
 * The code named "Task1_Gwenda_Belmiloudi_Excel.py" needs to be modified to run. The data are retrieved from the excel file, so the user needs to replace de file path in the code (file_location).
 The excel file can be another one but has to contain two sheets with the same amount of columns and all columns has to contain the same type of data (e.g. the color and the weight column).
-However the number of line can be different.
+However the number of lines can be different.
 The rest works as the previous code.
 
 ## Additional files
