@@ -20,6 +20,10 @@ The excel file can be another one but has to contains two sheets with the same a
 However the number of line can be different.
 The rest works as the previous code.
 
+## Additional files
+
+Two pictures are included: "Network_vizualisation_2D.png" is a picture of the 2D vizualization and "Network_vizualisation_3D.png" is a screenshot of the 3D vizualization.
+
 ## Author
 
 **Gwenda BELMILOUDI-MICHEL**
