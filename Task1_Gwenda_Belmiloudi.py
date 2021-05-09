@@ -54,7 +54,7 @@ nx.draw_networkx(g, pos = pos, with_labels = False, nodelist = list_nodes, node_
 
 nx.draw_networkx_labels (g, pos=pos, labels = {n:lab for n,lab in dict_nodeId_label.items() if n in pos})
 
-axs.set_title('Network Virtualization 2D')
+axs.set_title('Network Visualization 2D')
 
 plt.show()
 
@@ -116,7 +116,7 @@ axis = dict(showbackground=False,
             showticklabels=False,
             title='')
 
-layout = go.Layout(title="Network Virtualization 3D",
+layout = go.Layout(title="Network Visualization 3D",
                 width=650,
                 height=625,
                 showlegend=False,
